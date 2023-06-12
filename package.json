@@ -1,0 +1,19 @@
+{
+  "name": "fastify",
+  "version": "1.0.0",
+  "description": "fastifydemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "urvish",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.15.0",
+    "k6": "^0.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
